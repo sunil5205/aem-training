@@ -1,1 +1,0 @@
-This is release branch. Used for training project.
